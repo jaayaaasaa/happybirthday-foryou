@@ -1,14 +1,5 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+# Happy Birthday Flower
 
+# When I Was Your Man - Bruno Mars
 
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-# Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
-
-Thanks to codepan and mdusmanansari
+Thanks to GOD
